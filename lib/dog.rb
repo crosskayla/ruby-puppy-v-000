@@ -15,3 +15,6 @@ class Dog
 end
 
 doge = Dog.new
+doggy = Dog.new
+dawg = Dog.new
+Dog.all
